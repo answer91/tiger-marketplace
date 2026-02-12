@@ -1,0 +1,14 @@
+{
+    "name": "tiger-plugins",
+    "owner": {
+        "name": "answer"
+    },
+    "plugins": [
+        {
+            "name": "ai-plugin",
+            "source": "./plugins/ai-plugin",
+            "description": "program skills and commands for AI",
+            "version": "0.0.1"
+        }
+    ]
+}
