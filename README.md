@@ -22,4 +22,5 @@ personal ai plugins repo
  - git push to gerrit command
 
 # skills
- - go-test-skills
+ - go-test-skill
+ - git-worktree-skill
